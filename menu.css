@@ -81,4 +81,8 @@
     #menu .section-subtitle {
         text-align: center;
     }
+
+    .btn-default a {
+        font-size: 1.2rem;
+    }
 }
