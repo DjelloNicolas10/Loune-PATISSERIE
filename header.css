@@ -87,4 +87,8 @@ header {
     text-decoration: none;
     color: antiquewhite;
    }
+
+   .whatsapp img {
+    width: 3rem;
+}
 } 

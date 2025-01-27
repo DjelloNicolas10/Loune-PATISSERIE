@@ -11,7 +11,7 @@ body {
 
 /* Estilos do rodapé */
 footer {
-  background-color: #fff;
+  background-color: #ffffffaf;
   padding: 40px 20px;
 }
 
@@ -78,6 +78,9 @@ ul.text-sm li span.font-bold {
   margin-top: 20px;
 }
 
+.line {
+  color: black;
+}
 .termino p {
   font-size: 12px;
   color: #999;
