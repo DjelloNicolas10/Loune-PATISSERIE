@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: center;
     gap: 48px;
+    background-color: rgba(232, 239, 245, 0.534);
  }
 
  #testimonial_chef {
@@ -84,7 +85,7 @@
 @media screen and (max-width: 600px) {
 
     #testimonials .section-subtitle {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
 
     .feedback {
