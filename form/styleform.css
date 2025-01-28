@@ -46,7 +46,7 @@ header .bot i {
     cursor: pointer;
     font-size: 1.5rem;
     transition: 3s ease;
-    margin-right: 5px;
+    margin-right: 2px;
   }
 
   header .bot i :hover {
